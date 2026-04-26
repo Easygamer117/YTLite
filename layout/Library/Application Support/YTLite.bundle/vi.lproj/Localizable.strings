@@ -1,13 +1,3 @@
-/* Patreon section */
-"SkipLogInAlert" = "Suppress login reminder";
-"Log-inViaPatreon" = "Log-in via Patreon";
-"ManageAccount" = "Manage account";
-"AccessDenied" = "Access denied";
-"LogOut" = "Log out";
-"LogOutTitle" = "Log out";
-"LogOutMessage" = "Are you sure you want to continue?";
-"FeaturesNotActivated" = "You are not logged in. To access YouTube Plus features, please log in with an active Patreon subscription.";
-
 /* Main section */
 "Main" = "Cài đặt chính";
 "Search" = "Search";
@@ -536,8 +526,6 @@
 "EnableDiscordRPCDesc" = "Show what you're watching in your Discord status.";
 "RPC.OverlayButton" = "Show button in player overlay";
 "RPC.OverlayButtonDesc" = "Adds a Discord RPC toggle button to the video player overlay.";
-"RPC.DisableServerAlerts" = "Disable server reminders";
-"RPC.DisableServerAlertsDesc" = "Suppresses alerts when the desktop server is unreachable.";
 "RPC.Address" = "Server Address";
 "RPC.AddressDesc" = "Enter the address shown in the YouTube Plus RPC app on your desktop.";
 
@@ -609,8 +597,6 @@
 "ClearCacheAtStartDesc" = "Tự động xóa bộ nhớ đệm khi khởi động ứng dụng.";
 "ClearCache" = "Xóa bộ nhớ đệm";
 
-"NoDonationReminder" = "Tắt nhắc nhở quyên góp";
-"NoDonationReminderDesc" = "Tắt lời nhắc quyên góp, thông báo này hiếm khi được hiển thị.";
 
 "ShortsOnlyWarning" = "Bạn có chắc chắn muốn bật chế độ video ngắn?\n\nTrong chế độ này, bạn chỉ có thể xem video ngắn và không thể làm gì khác.\n\nBạn có thể tắt chế độ này bằng cách nhấn giữ hai ngón tay lên màn hình.";
 "ShortsModeTurnedOff" = "Đã tắt chế độ video ngắn";

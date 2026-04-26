@@ -1,4 +1,4 @@
-  {
+{
     "minVersion": "0.1",
     "headerImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/header.png",
     "class": "DepictionTabView",
@@ -93,11 +93,6 @@
         },
         {
             "views": [
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "My Patreon",
-                    "action": "https://patreon.com/dayanch96"
-                },
                 {
                     "class": "DepictionTableButtonView",
                     "title": "Buy me a coffee",

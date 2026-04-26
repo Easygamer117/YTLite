@@ -1,13 +1,3 @@
-/* Patreon section */
-"SkipLogInAlert" = "Скрыть напоминание о входе";
-"Log-inViaPatreon" = "Войти с помощью Patreon";
-"ManageAccount" = "Управление аккаунтом";
-"AccessDenied" = "Нет доступа";
-"LogOut" = "Выйти";
-"LogOutTitle" = "Выход";
-"LogOutMessage" = "Уверены, что хотите продолжить?";
-"FeaturesNotActivated" = "Вы не вошли в аккаунт. Для доступа к функциям YouTube Plus войдите с активной подпиской Patreon.";
-
 /* Main section */
 "Main" = "Основные";
 "Search" = "Поиск";
@@ -536,8 +526,6 @@
 "EnableDiscordRPCDesc" = "Отображает просматриваемое видео в статусе Discord.";
 "RPC.OverlayButton" = "Отображать кнопку в плеере";
 "RPC.OverlayButtonDesc" = "Добавляет кнопку управления Discord RPC в оверлей плеера.";
-"RPC.DisableServerAlerts" = "Отключить напоминания о сервере";
-"RPC.DisableServerAlertsDesc" = "Скрывает уведомления, отображаемые, когда десктопный сервер недоступен.";
 "RPC.Address" = "Адрес сервера";
 "RPC.AddressDesc" = "Введите адрес из приложения YouTube Plus RPC на вашем компьютере.";
 
@@ -609,8 +597,6 @@
 "ClearCacheAtStartDesc" = "Автоматическая очистка кеша при каждом запуске.";
 "ClearCache" = "Очистить кеш";
 
-"NoDonationReminder" = "Не напоминать о донате";
-"NoDonationReminderDesc" = "Отключает изредка появляющиеся напоминания о пожертвовании.";
 
 "ShortsOnlyWarning" = "Вы уверены, что хотите активировать данный режим?\n\nВ данном режиме вы не сможете ничего делать, кроме как смотреть видеоролики Shorts.\n\nРежим Shorts можно будет отключить зажав в плеере двумя пальцами.";
 "ShortsModeTurnedOff" = "Режим Shorts был отключен";
