@@ -1,13 +1,3 @@
-/* Patreon section */
-"SkipLogInAlert" = "Suppress login reminder";
-"Log-inViaPatreon" = "Log-in via Patreon";
-"ManageAccount" = "Manage account";
-"AccessDenied" = "Access denied";
-"LogOut" = "Log out";
-"LogOutTitle" = "Log out";
-"LogOutMessage" = "Are you sure you want to continue?";
-"FeaturesNotActivated" = "You are not logged in. To access YouTube Plus features, please log in with an active Patreon subscription.";
-
 /* Main section */
 "Main" = "主功能";
 "Search" = "Search";
@@ -536,8 +526,6 @@
 "EnableDiscordRPCDesc" = "Show what you're watching in your Discord status.";
 "RPC.OverlayButton" = "Show button in player overlay";
 "RPC.OverlayButtonDesc" = "Adds a Discord RPC toggle button to the video player overlay.";
-"RPC.DisableServerAlerts" = "Disable server reminders";
-"RPC.DisableServerAlertsDesc" = "Suppresses alerts when the desktop server is unreachable.";
 "RPC.Address" = "Server Address";
 "RPC.AddressDesc" = "Enter the address shown in the YouTube Plus RPC app on your desktop.";
 
@@ -609,8 +597,6 @@
 "ClearCacheAtStartDesc" = "“YouTube”启动时自动清除缓存。";
 "ClearCache" = "清除缓存";
 
-"NoDonationReminder" = "禁用捐赠提醒";
-"NoDonationReminderDesc" = "关闭偶尔显示的捐赠提醒。";
 
 "ShortsOnlyWarning" = "确定要激活此模式吗？\n\n在此模式下，将只能观看短视频，且无法执行任何其他操作。\n\n可以通过双指长按禁用“仅短视频模式”。";
 "ShortsModeTurnedOff" = "仅短视频模式已关闭";

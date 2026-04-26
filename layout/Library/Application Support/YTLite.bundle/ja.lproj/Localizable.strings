@@ -1,13 +1,3 @@
-/* Patreon section */
-"SkipLogInAlert" = "Suppress login reminder";
-"Log-inViaPatreon" = "Log-in via Patreon";
-"ManageAccount" = "Manage account";
-"AccessDenied" = "Access denied";
-"LogOut" = "Log out";
-"LogOutTitle" = "Log out";
-"LogOutMessage" = "Are you sure you want to continue?";
-"FeaturesNotActivated" = "You are not logged in. To access YouTube Plus features, please log in with an active Patreon subscription.";
-
 /* Main section */
 "Main" = "メイン";
 "Search" = "Search";
@@ -536,8 +526,6 @@
 "EnableDiscordRPCDesc" = "Show what you're watching in your Discord status.";
 "RPC.OverlayButton" = "Show button in player overlay";
 "RPC.OverlayButtonDesc" = "Adds a Discord RPC toggle button to the video player overlay.";
-"RPC.DisableServerAlerts" = "Disable server reminders";
-"RPC.DisableServerAlertsDesc" = "Suppresses alerts when the desktop server is unreachable.";
 "RPC.Address" = "Server Address";
 "RPC.AddressDesc" = "Enter the address shown in the YouTube Plus RPC app on your desktop.";
 
@@ -609,8 +597,6 @@
 "ClearCacheAtStartDesc" = "起動時に自動的にキャッシュを削除します。";
 "ClearCache" = "キャッシュを削除";
 
-"NoDonationReminder" = "寄付のリマインダーを無効化";
-"NoDonationReminderDesc" = "ほとんど表示されない寄付のリマインダーを非表示にします。";
 
 "ShortsOnlyWarning" = "このモードを有効にしてもよろしいですか?\n\nこのモードでは、ショート動画の視聴のみが可能で、他の操作は行えません。\n\nショートプレーヤーで 2 本の指で長押しすると、ショート専用モードを無効にできます。";
 "ShortsModeTurnedOff" = "ショートのみモードがオフになりました。";

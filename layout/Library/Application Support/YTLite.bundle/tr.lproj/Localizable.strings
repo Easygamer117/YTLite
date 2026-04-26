@@ -1,13 +1,3 @@
-/* Patreon section */
-"SkipLogInAlert" = "Giriş hatırlatmasını kapat";
-"Log-inViaPatreon" = "Patreon ile giriş yap";
-"ManageAccount" = "Hesabı yönet";
-"AccessDenied" = "Erişim reddedildi";
-"LogOut" = "Çıkış yap";
-"LogOutTitle" = "Çıkış yap";
-"LogOutMessage" = "Devam etmek istediğinden emin misin?";
-"FeaturesNotActivated" = "Henüz giriş yapmadın. YouTube Plus özelliklerine erişmek için aktif bir Patreon aboneliğiyle giriş yapman gerekiyor.";
-
 /* Main section */
 "Main" = "Ana";
 "Search" = "Ara";
@@ -536,8 +526,6 @@
 "EnableDiscordRPCDesc" = "İzlediklerinizi Discord durumunuzda gösterir.";
 "RPC.OverlayButton" = "Oynatıcı kaplamında düğme göster";
 "RPC.OverlayButtonDesc" = "Video oynatıcı kaplamına Discord RPC geçiş düğmesi ekler.";
-"RPC.DisableServerAlerts" = "Sunucu hatırlatıcılarını devre dışı bırak";
-"RPC.DisableServerAlertsDesc" = "Masaüstü sunucusuna ulaşılamadığında uyarıları gizler.";
 "RPC.Address" = "Sunucu Adresi";
 "RPC.AddressDesc" = "Masaüstünüzdeki YouTube Plus RPC uygulamasında gösterilen adresi girin.";
 
@@ -609,8 +597,6 @@
 "ClearCacheAtStartDesc" = "Başlangıçta önbelleği otomatik olarak temizler.";
 "ClearCache" = "Önbelleği temizle";
 
-"NoDonationReminder" = "Bağış hatırlatmasını kapat";
-"NoDonationReminderDesc" = "Nadiren gösterilen bağış hatırlatmasını devre dışı bırakır.";
 
 "ShortsOnlyWarning" = "Bu modu etkinleştirmek istediğinizden emin misiniz?\n\nBu modda, yalnızca Shorts videolarını izleyebilir ve başka hiçbir şey yapamazsınız.\n\nShorts Sadece Modunu devre dışı bırakmak için Shorts oynatıcıda iki parmakla uzun basmanız yeterlidir.";
 "ShortsModeTurnedOff" = "Sadece Shorts Modu kapatıldı";
